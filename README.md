@@ -1,11 +1,11 @@
 ```
 
-███████╗██╗  ██╗██╗██╗     ██╗███████╗   ██████╗ ██╗███████╗
-██╔════╝██║ ██╔╝██║██║     ██║██╔════╝   ██╔════╝ ██║██╔════╝
-███████╗█████╔╝ ██║██║     ██║███████╗   ██║  ███╗██║███████╗
-╚════██║██╔═██╗ ██║██║     ██║╚════██║   ██║   ██║██║╚════██║
-███████║██║  ██╗██║███████╗██║███████║   ╚██████╔╝██║███████║
-╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝╚══════╝    ╚═════╝ ╚═╝╚══════╝
+███████╗██╗  ██╗██╗██╗     ██╗     ███████╗    ██████╗ ██╗███████╗
+██╔════╝██║ ██╔╝██║██║     ██║     ██╔════╝   ██╔════╝ ██║██╔════╝
+███████╗█████╔╝ ██║██║     ██║     ███████╗   ██║  ███╗██║███████╗
+╚════██║██╔═██╗ ██║██║     ██║     ╚════██║   ██║   ██║██║╚════██║
+███████║██║  ██╗██║███████╗███████╗███████║   ╚██████╔╝██║███████║
+╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝    ╚═════╝ ╚═╝╚══════╝
 
 ```
 
@@ -40,7 +40,7 @@ Collection of advanced geospatial analysis workflows for QGIS.
 ### Scientific Hydrology
 - [Morphometric Delineation of Basins](skills/scientific_hydrology/morphometric_delineation_of_basins.md) — Automated watershed delineation with morphometric parameters
 
-### Spatial Machine Learning
+### Spatial machine learning (coming soon)
 - [Object Segmentation](skills/spatial_machine_learning/object_segmentation.md) — Semantic segmentation of satellite imagery
 - [Supervised Classification](skills/spatial_machine_learning/supervised%20classification.md) — Classification based on training samples
 - [Unsupervised Classification](skills/spatial_machine_learning/unsupervised_classification.md) — Automated cluster detection
